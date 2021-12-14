@@ -1,0 +1,66 @@
+.three-shapes-cont {
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin: 20px;
+    border: 5px solid black;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.three-shapes {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.purp-rect {
+    background-color: rgb(138, 43, 226);
+    width: 50px;
+    height: 150px;
+    margin-top: 50px;
+}
+
+.green-rect {
+    background-color: rgb(34, 139, 34);
+    width: 400px;
+    height: 200px;
+}
+
+.blue-circle {
+    border-radius: 50%;
+    background-color: rgb(135, 206, 235);
+    width: 200px;
+    height: 200px;
+}
+
+.dotted-cont {
+    border: 5px dotted black;
+    margin: 20px;
+    padding: 50px;
+}
+
+.yellow-shadow {
+    background-color: rgb(255, 250, 205);
+    height: 200px;
+    box-shadow: 10px 10px 5px rgb(64, 64, 64);
+}
+
+.greeting-cont {
+    width: 50vh;
+    height: 300px;
+    border: 1px solid;
+    margin: 20px auto;
+    box-shadow: 5px 5px 1px rgb(198, 198, 198);
+    box-sizing: border-box;
+    padding: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.greeting-cont h1 {
+    color: navy;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 10px;
+    width: 100%;
+}
