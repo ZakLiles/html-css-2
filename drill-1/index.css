@@ -1,0 +1,23 @@
+
+* {
+    background-color: #d8d8d8;
+}
+header {
+    background-color: #444444;
+    height: 20vh;
+}
+
+footer {
+    background-color: #222222;
+    height: 10vh;
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+main {
+    background-color: #efefef;
+    width: 75%;
+    height: 70vh;
+    margin: 0 auto;
+}
